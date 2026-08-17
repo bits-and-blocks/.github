@@ -1,4 +1,4 @@
-Bits & Blocks is a blockchain engineering firm for fintechs. We write smart contracts in Move, Soroban, and Solidity, port live protocols from one chain to another, and build confidential systems. Security review is part of every engagement. Our work runs in production on Aptos, Base and other EVM networks, Movement, and Stellar.
+Bits & Blocks is a blockchain engineering firm for fintechs. We write and port smart contracts in Move, Soroban, and Solidity, and build confidential systems. Security review is part of every engagement.
 
 Learn more:
 
