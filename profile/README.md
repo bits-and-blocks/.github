@@ -13,4 +13,4 @@ Get in touch:
 - [Email us](mailto:info@bitsandblocks.tech)
 - [Report a security issue](https://www.bitsandblocks.tech/.well-known/security.txt)
 
-Bits and Blocks LLC is licensed by the Qatar Financial Center (QFC No. 3865), Doha Tower, West Bay, Doha, Qatar.
+_Licensed by the Qatar Financial Center (QFC No. 3865), Doha Tower, West Bay, Doha, Qatar._
