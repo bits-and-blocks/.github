@@ -2,9 +2,8 @@ Bits & Blocks is a blockchain engineering firm for fintechs. We write smart cont
 
 Learn more:
 
-- [About Bits & Blocks](https://www.bitsandblocks.tech)
-- [AIP-76, a digital-asset composability standard co-authored by our founder](https://github.com/aptos-foundation/AIPs/blob/main/aips/aip-076-digital-assets-composability.md)
-- [Writing](https://medium.com/@bitsandblocks)
+- [About us](https://www.bitsandblocks.tech)
+- [AIP-76](https://github.com/aptos-foundation/AIPs/blob/main/aips/aip-076-digital-assets-composability.md)
 - [LinkedIn](https://www.linkedin.com/company/108891410)
 
 Get in touch:
