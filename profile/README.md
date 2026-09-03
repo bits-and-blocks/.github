@@ -11,5 +11,3 @@ Get in touch:
 - [Book a call](https://www.bitsandblocks.tech/start-a-project)
 - [Email us](mailto:info@bitsandblocks.tech)
 - [Report a security issue](https://www.bitsandblocks.tech/.well-known/security.txt)
-
-_Licensed by the Qatar Financial Center (QFC No. 3865), Doha Tower, West Bay, Doha, Qatar._
