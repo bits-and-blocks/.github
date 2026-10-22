@@ -3,6 +3,7 @@ Bits & Blocks is a blockchain engineering firm for fintechs. We write and port s
 Learn more:
 
 - [About us](https://www.bitsandblocks.tech)
+- [Clarus](https://www.clarus.team): issues, projects and time tracking for distributed teams
 - [AIP-76](https://github.com/aptos-foundation/AIPs/blob/main/aips/aip-076-digital-assets-composability.md)
 - [LinkedIn](https://www.linkedin.com/company/108891410)
 
